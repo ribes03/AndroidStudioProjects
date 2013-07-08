@@ -9,7 +9,9 @@
 
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
+            <activity android:label="@string/app_name" android:name="juanribes.photoannotation.CameraActivity"/>
         </activity>
+
     </application>
 
 </manifest>

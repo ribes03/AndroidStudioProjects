@@ -44,11 +44,17 @@
             <file
                 path="/Users/ribes03/AndroidStudioProjects/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/src/main/res/values/strings.xml"
                 qualifiers="" >
-                <string name="action_settings" >Settings
+                <string name="action_settings" >Ajustes
                 </string>
-                <string name="app_name" >PhotoAnnotation
+                <string name="Photo_button" >New Button
                 </string>
-                <string name="hello_world" >Hello world!
+                <string name="image_View" >image_View
+                </string>
+                <string name="app_name" >Photo Note
+                </string>
+                <string name="photo_Button" >New Button
+                </string>
+                <string name="hello_world" >Hola Juan!
                 </string>
             </file>
             <file
@@ -104,6 +110,14 @@
                     <!-- API 14 theme customizations can go here. -->
                 </style>
             </file>
+            <file
+                name="Camera"
+                path="/Users/ribes03/AndroidStudioProjects/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/src/main/res/layout/Camera.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/Users/ribes03/AndroidStudioProjects/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/src/main/res/values/ids.xml"
+                qualifiers="" />
         </source>
         <source path="/Users/ribes03/AndroidStudioProjects/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/build/res/rs/debug" />
     </dataSet>
