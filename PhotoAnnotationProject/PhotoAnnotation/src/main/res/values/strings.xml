@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name" >PhotoAnnotation
+    <string name="app_name" >Photo Note
     </string>
-    <string name="action_settings" >Settings
+    <string name="action_settings" >Ajustes
     </string>
-    <string name="hello_world" >Hello world!
+    <string name="hello_world" >Hola Juan!
     </string>
+    <string name="Photo_button">New Button</string>
+    <string name="image_View">image_View</string>
+    <string name="photo_Button">New Button</string>
 
 </resources>
