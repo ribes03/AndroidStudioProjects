@@ -5,6 +5,7 @@ import android.graphics.Bitmap;
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
+import android.graphics.Path;
 import android.os.Bundle;
 import android.view.Display;
 import android.view.MotionEvent;
@@ -16,7 +17,7 @@ public class SmoothView extends Activity implements OnTouchListener {
     ImageView imageView;
     Bitmap bitmap;
     Canvas canvas;
-    Paint paint;
+   // Paint paint;
     float downx = 0, downy = 0, upx = 0, upy = 0;
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -32,7 +33,23 @@ public class SmoothView extends Activity implements OnTouchListener {
         bitmap = Bitmap.createBitmap((int) dw, (int) dh,
                 Bitmap.Config.ARGB_8888);
         canvas = new Canvas(bitmap);
-        paint = new Paint();
+
+        Paint paint = new Paint() {
+            {
+                setStyle(Paint.Style.STROKE);
+                setStrokeCap(Paint.Cap.ROUND);
+                setStrokeWidth(3.0f);
+                setAntiAlias(true);
+            }
+        };
+        final Path path = new Path();
+        path.moveTo(x1, y1);
+
+        final float x2 = (x3 + x1) / 2;
+        final float y2 = (y3 + y1) / 2;
+        path.quadTo(x2, y2, x3, y3);
+        canvas.drawPath(path, paint);
+
         paint.setColor(Color.GREEN);
         imageView.setImageBitmap(bitmap);
 
