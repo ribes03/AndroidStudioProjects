@@ -1,14 +1,14 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1373309505000 939 1b4923bcab80865baff638d71585f4e6e836fbef /Users/ribes03/AndroidStudioProjects/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/build/res/all/debug/values/values.xml
-1371492452000 16690 81c0fdedc87bfa563e3ed40d5da1dafcb5c2c794 /Users/ribes03/AndroidStudioProjects/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
-1371492452000 217 f02e000d05a079992d2dba18039216c1e6b8784f /Users/ribes03/AndroidStudioProjects/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/build/res/all/debug/values-v14/values.xml
-1373309505000 932 94bc3256542debf7a4aaa7c11dd07747f6628275 /Users/ribes03/AndroidStudioProjects/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/build/res/all/debug/layout/Camera.xml
-1371492452000 5560 bceb1e21d6d90a23d8095a46c515d9f7a99eeb7d /Users/ribes03/AndroidStudioProjects/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/build/res/all/debug/drawable-hdpi/ic_launcher.png
-1373308831000 190 82d282fe8079482239e22f48c54e24b3f6a9c0c2 /Users/ribes03/AndroidStudioProjects/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/build/res/all/debug/layout/activity_main.xml
-1371492452000 8583 70afbb3d9da4b5afd0e00c4e1a97491d8c13b845 /Users/ribes03/AndroidStudioProjects/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/build/res/all/debug/drawable-xhdpi/ic_launcher.png
-1371492452000 125 fae9d1b71d520745438010c9ca7cde9c81dfefac /Users/ribes03/AndroidStudioProjects/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/build/res/all/debug/values-sw720dp-land/values.xml
-1371492452000 2798 ff14ac1cf9b471915ed647975093180bc8a2289e /Users/ribes03/AndroidStudioProjects/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/build/res/all/debug/drawable-mdpi/ic_launcher.png
-1371492452000 203 19aedb7cdc3386344e36087b035a0a6b2b91d4cd /Users/ribes03/AndroidStudioProjects/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/build/res/all/debug/values-v11/values.xml
-1371492452000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/ribes03/AndroidStudioProjects/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/build/res/all/debug/menu/photo_note.xml
+1370267887000 16690 81c0fdedc87bfa563e3ed40d5da1dafcb5c2c794 /Users/jribes 1/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1370267887000 5560 bceb1e21d6d90a23d8095a46c515d9f7a99eeb7d /Users/jribes 1/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1370267887000 217 f02e000d05a079992d2dba18039216c1e6b8784f /Users/jribes 1/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/build/res/all/debug/values-v14/values.xml
+1370267887000 8583 70afbb3d9da4b5afd0e00c4e1a97491d8c13b845 /Users/jribes 1/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1370267887000 2798 ff14ac1cf9b471915ed647975093180bc8a2289e /Users/jribes 1/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1370267887000 125 fae9d1b71d520745438010c9ca7cde9c81dfefac /Users/jribes 1/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/build/res/all/debug/values-sw720dp-land/values.xml
+1373367791000 939 1b4923bcab80865baff638d71585f4e6e836fbef /Users/jribes 1/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/build/res/all/debug/values/values.xml
+1370267887000 203 19aedb7cdc3386344e36087b035a0a6b2b91d4cd /Users/jribes 1/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/build/res/all/debug/values-v11/values.xml
+1373371793000 0 da39a3ee5e6b4b0d3255bfef95601890afd80709 /Users/jribes 1/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/build/res/all/debug/layout/activity_main.xml
+1370267887000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/jribes 1/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/build/res/all/debug/menu/photo_note.xml
+1373367791000 932 94bc3256542debf7a4aaa7c11dd07747f6628275 /Users/jribes 1/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/build/res/all/debug/layout/Camera.xml

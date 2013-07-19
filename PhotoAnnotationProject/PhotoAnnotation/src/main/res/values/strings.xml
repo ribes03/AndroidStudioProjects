@@ -7,6 +7,7 @@
     </string>
     <string name="hello_world" >Hola Juan!
     </string>
+    <string name="Camera_Activity_title">Actividad Camara</string>
     <string name="Photo_button">New Button</string>
     <string name="image_View">image_View</string>
     <string name="photo_Button">New Button</string>

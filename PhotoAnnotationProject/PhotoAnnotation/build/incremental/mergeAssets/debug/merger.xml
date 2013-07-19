@@ -2,10 +2,10 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="/Users/ribes03/AndroidStudioProjects/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/src/main/assets" />
+        <source path="/Users/jribes 1/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/src/main/assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/ribes03/AndroidStudioProjects/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/src/debug/assets" />
+        <source path="/Users/jribes 1/AndroidStudioProjects/PhotoAnnotationProject/PhotoAnnotation/src/debug/assets" />
     </dataSet>
 
 </merger>
